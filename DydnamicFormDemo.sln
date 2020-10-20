@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DydnamicFormDemo", "DydnamicFormDemo\DydnamicFormDemo.csproj", "{215E52D3-F57E-44C6-9A06-E9C002D5243C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DynamicFormLIp", "DynamicFormLIp\DynamicFormLIp.csproj", "{4C59583E-0AF8-48F2-BB7B-CAE0CAAEF28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{215E52D3-F57E-44C6-9A06-E9C002D5243C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{215E52D3-F57E-44C6-9A06-E9C002D5243C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{215E52D3-F57E-44C6-9A06-E9C002D5243C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{215E52D3-F57E-44C6-9A06-E9C002D5243C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C59583E-0AF8-48F2-BB7B-CAE0CAAEF28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C59583E-0AF8-48F2-BB7B-CAE0CAAEF28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C59583E-0AF8-48F2-BB7B-CAE0CAAEF28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C59583E-0AF8-48F2-BB7B-CAE0CAAEF28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB29E742-1050-42A9-A69C-C76D5C2F9B8B}
+	EndGlobalSection
+EndGlobal
